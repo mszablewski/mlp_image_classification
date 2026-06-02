@@ -1,0 +1,14 @@
+tensorflow>=2.20.0
+numpy
+pandas
+scikit-learn
+pillow
+matplotlib
+plotly
+nbformat
+seaborn
+opencv-python
+h5py
+ipykernel
+notebook
+tqdm
